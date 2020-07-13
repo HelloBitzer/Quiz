@@ -1,0 +1,95 @@
+#Überschrift
+{
+	z-index: 4;
+	color: black;
+	margin-left: 8%;
+	/* font-size: 8; */
+	
+	
+}
+
+#content
+{
+	margin: auto;
+	margin-top:20px;
+	width: 70%;
+	opacity; 0.7;
+	z-index: 1;
+	
+}
+
+
+.Frage
+{
+	color: black;
+	width: 100%;
+	margin-bottom: 0px;
+	height: 100px;
+	opacity: 0.7; 
+	margin-top: 10px;
+	z-index:5;
+	
+}
+#txt
+{
+	margin-left: 8%;
+	font-family: Verdana bold;
+	z-index:6;
+	color: black;
+	opacity:1;
+	
+}
+
+
+
+h1
+{
+	text-align: center;
+	font-size:30px;
+	color:#2E9AFE;
+	font-family: Verdana;
+	text-shadow: 2px 4px 2px #CEECF5;
+	
+}
+
+#eins
+{
+	/* border: 1px solid black; */
+	background: #F6CECE;
+	
+}
+
+#zwei
+{
+	background: #F6CECE;
+}
+
+#drei
+{
+	/* border: 1px solid black; */
+	background: #F6CECE;
+}
+
+#vier
+{
+	background: #F6CECE;
+}
+
+
+body
+{
+	background: url(bild3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	
+}
+
+#Ergebnis
+{
+	
+	color: black;
+	background: #F5F6CE;
+	font-family: Verdana;
+}
+
